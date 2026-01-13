@@ -1,10 +1,12 @@
 # Sudoku solver
-#### Video Demo:  <https://youtu.be/nT32ilwkilY>
 
 Hi everyone! This is my final project for Harvard's CS50's Introduction to Computer Science course.\
 The project is implemented as a command line tool using Python. This tool solves a real world problem - solve almost any sudoku puzzle out there, that is any sudoku puzzle that can be solved with logicical reasoing without having to guess.\
 This is version 1.0, and I am having plans to expand and add more functionality to this project later.\
 Programming does not stop at CS50!
+
+### 30sec demo
+https://github.com/user-attachments/assets/cffbb391-d79c-4ed5-94d8-a44e308c6454
 
 ## Functionality
 ### Command line arguments
